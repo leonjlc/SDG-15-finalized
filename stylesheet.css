@@ -64,7 +64,7 @@ a {
     display: grid;
 	padding: 3em;
     gap: 2em; 
-    grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(450px,1fr));
     background-color:#6AA84F;
     grid-auto-rows: 1fr;
     box-shadow: 10px 10px 30px rgba(0,0,0,0.5);

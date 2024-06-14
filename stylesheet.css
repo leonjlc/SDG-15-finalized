@@ -92,7 +92,7 @@ a {
     
 
 }
-/*
+
 @media (min-width:550px) {
     .relevance {
         grid-column: auto / span 3;
@@ -101,7 +101,7 @@ a {
         grid-column: auto / span 2;
     }
 }
-*/
+
 .imagerel {
     border-radius: 1em;
     display: grid;
